@@ -1,5 +1,5 @@
 👋 Hi, I’m @rum1887
-- 🔭 I’m currently working on Computer Hardware and Digital Signal procesing.
+- 🔭 I’m currently working on Computer Hardware and Digital Signal Processing.
 - 🌱 I’m currently learning Algorithms and DSP.
 - 👯 I’m looking to collaborate on hardware projects.
 - 🤔 I’m looking for help with Quantum computing.
