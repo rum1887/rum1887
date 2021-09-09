@@ -1,9 +1,9 @@
 
-- 🔭 I’m currently working on computer hardware and digital signal procesing.
+- 🔭 I’m currently working on Computer Hardware and Digital Signal procesing.
 - 🌱 I’m currently learning Algorithms and DSP.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Qunatum computing.
+- 👯 I’m looking to collaborate on hardware projects.
+- 🤔 I’m looking for help with Quantum computing.
 - 💬 Ask me about EEE and NITK.
 - 📫 How to reach me: ramyapgk.tech@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Thinks perosnal brnading is overated.
+- ⚡ Fun fact: Thinks perosnal branding is overated.
