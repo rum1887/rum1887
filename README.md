@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with Quantum computing.
 - 💬 Ask me about EEE and NITK.
 - 📫 How to reach me: ramyapgk.tech@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Thinks perosnal branding is overated.
